@@ -8,6 +8,7 @@ public class a {
     static class b1create{
 
     }
+    int b1 =1;
 }
 
 
