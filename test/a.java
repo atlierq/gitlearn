@@ -8,4 +8,6 @@ public class a {
     static class createMaster{
 
     }
+
+    int addagain =1;
 }
