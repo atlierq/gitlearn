@@ -7,4 +7,8 @@ public class f1 {
     public void function2(int a){
 
     }
+
+    public void function1(){
+
+    }
 }
