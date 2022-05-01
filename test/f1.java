@@ -12,6 +12,10 @@ public class f1 {
 
     }
 
+    public void function3(int a){
+
+    }
+
 
     public void function4(int a){
 
