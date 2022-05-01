@@ -5,7 +5,6 @@ public class TestRevert {
 
     }
 
-    void f2(){}
 
     void f3(){}
 }
