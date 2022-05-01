@@ -5,4 +5,7 @@ public class b1 {
         System.out.println("fsdfsd");
 
     }
+    static class test{
+
+    }
 }
