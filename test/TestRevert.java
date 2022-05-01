@@ -4,6 +4,7 @@ public class TestRevert {
     public static void main(String[] args) {
 
     }
+    void f1(){}
 
 
 }
