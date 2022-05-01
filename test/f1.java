@@ -17,4 +17,10 @@ public class f1 {
     }
 
 
+    public void function4(int a){
+
+    }
+
+
+
 }
